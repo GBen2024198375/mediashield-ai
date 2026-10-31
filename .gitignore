@@ -1,0 +1,15 @@
+﻿__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+node_modules/
+dist/
+.vite/
+models/
+backend/uploads/*
+!backend/uploads/.gitkeep
+demo_assets/
+.vscode/
+.idea/
+*.log
